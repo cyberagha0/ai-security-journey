@@ -1,5 +1,5 @@
 # ai-security-journey
-Goal: AI Security Engineer by Sring 2027
+Goal: AI Security Engineer by Spring 2027
 I build, secure, and monitor AI sustems, and I document every step here. 
 
 ## Weekly Log
